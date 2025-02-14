@@ -1,7 +1,6 @@
 # Dynamic and Stochastic Models
 This repository contains projects completed during my dynamic stochastic modeling course (and a few from other classes that had cool math). 
-Most of these projects attempt to accurately represent the randomness present in real world predictive tasks, such as the price of a stock, or a firm's optimal advertising budget, 
-to develop sound strategies in the face of uncertain outcomes. 
+Most of these projects attempt to accurately represent the randomness present in real world predictive tasks with the aim developing sound strategies in the face of uncertain outcomes. 
 
 ## Projects
 The repository consists of the following projects:
