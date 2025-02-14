@@ -26,6 +26,6 @@ given datasets with various innacuracies, such as only recording weights above 2
 
 5. **Probability of Recession**
 
-Modelled Federal Reserve weekly economic index data as a time series, again using Markov processes to 
+Modelled Federal Reserve weekly economic index data as a time series, using Markov processes to 
 simulate future economic trends, and determine the likelihood of a recession as severe as that
 seen in Covid. 
