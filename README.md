@@ -14,7 +14,7 @@ Utilized Markov processes to find a firm's optimal advertising strategy given cu
 Used a felicity function and dicount factor to derive the price of a simple security, 
 reflecting diminishing returns to consumption and a consumer's preference for current consumption.
 
-3. **Affect of Smoking on Infant Birthweight**
+3. **Effect of Smoking on Infant Birthweight**
 
 Trained MLE models to predict the effect of a mother's smoking on infant birthweight 
 given datasets with various innacuracies, such as truncating birthweight so that only weights
