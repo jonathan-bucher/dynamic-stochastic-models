@@ -7,16 +7,16 @@ The repository consists of the following projects:
 
 1. **Optimal Advertising Strategy**
 
-Utilized Markov processes to find a firm's optimal advertising strategy given current sales numbers
+Utilized Markov processes to find a firm's optimal advertising strategy given current sales numbers.
 
 2. **Asset Pricing**
 
 Used a felicity function and dicount factor to derive the price of a simple security, 
-reflecting diminishing returns to consumption and preference for current consumption.
+reflecting diminishing returns to consumption and a consumer's preference for current consumption.
 
 3. **Affect of Smoking on Infant Birthweight**
 
-Trained MLE models to predict the effect of a mother's smoking on infant birthweight, 
+Trained MLE models to predict the effect of a mother's smoking on infant birthweight 
 given datasets with various innacuracies, such as truncating birthweight so that only weights
 above 2500 grams were recorded.
 
