@@ -1,5 +1,5 @@
 # Dynamic and Stochastic Models
-This repository contains projects completed during my dynamic stochastic modeling course (and a few from other classes that had cool math). 
+This repository contains projects from my dynamic stochastic modeling course (and a few from other classes that had cool math). 
 Most of these projects attempt to accurately represent the randomness present in real world predictive tasks with the aim developing sound strategies in the face of uncertain outcomes. 
 
 ## Projects
