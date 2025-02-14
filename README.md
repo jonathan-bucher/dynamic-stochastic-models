@@ -17,8 +17,7 @@ reflecting diminishing returns to consumption and a consumer's preference for cu
 3. **Effect of Smoking on Infant Birthweight**
 
 Trained MLE models to predict the effect of a mother's smoking on infant birthweight 
-given datasets with various innacuracies, such as truncating birthweight so that only weights
-above 2500 grams were recorded.
+given datasets with various innacuracies, such as only recording weights above 2500 grams.
 
 4. **Probability of Recession**
 
